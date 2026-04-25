@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Aisha Sharma",
+    "title": "Senior Python Developer",
+    "skills": ["Python", "FastAPI", "Machine Learning", "SQL", "Docker"],
+    "experience_years": 5,
+    "location": "Bangalore, India",
+    "notice_period": "30 days",
+    "expected_salary": "18 LPA"
+  },
+  {
+    "id": 2,
+    "name": "Sneha Reddy",
+    "title": "AI/ML Engineer",
+    "skills": ["Python", "Machine Learning", "Deep Learning", "NLP", "FastAPI"],
+    "experience_years": 4,
+    "location": "Hyderabad, India",
+    "notice_period": "15 days",
+    "expected_salary": "16 LPA"
+  },
+  {
+    "id": 3,
+    "name": "Rahul Mehta",
+    "title": "Full Stack Engineer",
+    "skills": ["React", "Node.js", "Python", "MongoDB", "AWS"],
+    "experience_years": 4,
+    "location": "Hyderabad, India",
+    "notice_period": "15 days",
+    "expected_salary": "15 LPA"
+  },
+  {
+    "id": 4,
+    "name": "Priya Nair",
+    "title": "Data Scientist",
+    "skills": ["Python", "TensorFlow", "NLP", "SQL", "Tableau"],
+    "experience_years": 3,
+    "location": "Mumbai, India",
+    "notice_period": "45 days",
+    "expected_salary": "14 LPA"
+  },
+  {
+    "id": 5,
+    "name": "Karan Patel",
+    "title": "DevOps Engineer",
+    "skills": ["Docker", "Kubernetes", "AWS", "CI/CD", "Linux"],
+    "experience_years": 6,
+    "location": "Pune, India",
+    "notice_period": "60 days",
+    "expected_salary": "20 LPA"
+  },
+  {
+    "id": 6,
+    "name": "Arjun Singh",
+    "title": "Backend Developer",
+    "skills": ["Java", "Spring Boot", "MySQL", "Redis", "Docker"],
+    "experience_years": 5,
+    "location": "Delhi, India",
+    "notice_period": "30 days",
+    "expected_salary": "17 LPA"
+  },
+  {
+    "id": 7,
+    "name": "Divya Krishnan",
+    "title": "Frontend Developer",
+    "skills": ["React", "TypeScript", "CSS", "Redux", "GraphQL"],
+    "experience_years": 3,
+    "location": "Chennai, India",
+    "notice_period": "15 days",
+    "expected_salary": "12 LPA"
+  },
+  {
+    "id": 8,
+    "name": "Vikram Joshi",
+    "title": "Cloud Architect",
+    "skills": ["AWS", "Azure", "Terraform", "Docker", "Python"],
+    "experience_years": 8,
+    "location": "Bangalore, India",
+    "notice_period": "60 days",
+    "expected_salary": "25 LPA"
+  }
+]
